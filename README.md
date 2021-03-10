@@ -3,7 +3,7 @@
 ### Building a responsive copy of a website
 
 - Languages: HTML & CSS
-- Link to github pages: https://iliev-nikola.github.io/Movies.com/
+- Link to github pages: [Movies](https://iliev-nikola.github.io/Movies.com/)
 - Screenshots:
   [![main-view.png](https://i.postimg.cc/DZqQSkt6/main-view.png)](https://postimg.cc/r0wRHbyR)
   [![desktop-view.png](https://i.postimg.cc/xTsvJPFw/desktop-view.png)](https://postimg.cc/56CYD8Jg)
