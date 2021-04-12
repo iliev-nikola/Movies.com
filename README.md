@@ -1,7 +1,8 @@
 # Movies.com
 
-### Building a responsive copy of a website
+## Building a responsive copy of a simple website
 
+### A task for IT Talents
 - Languages: HTML & CSS
 - Link to github pages: [Movies](https://iliev-nikola.github.io/Movies.com/)
 - Screenshots:
